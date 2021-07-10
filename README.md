@@ -1,4 +1,4 @@
-# ML_Dummy_Prediction
+# Credit_Scoring_Prediction
 
 Showcase of example on making credit scoring prediction from various informations among several tables in a database (Classification problem)
 
